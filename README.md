@@ -1,6 +1,6 @@
 # 🧑‍💻 About Me:
 
-👋 Hi, I'm Johnlord Mique<br><br>💻 3rd Year IT Student | 🌱 21 years old | 🚀 Open for collaboration<br><br>🔧 Tech Stack & Interests<br><br>MERN Stack (MongoDB, Express, React, Node.js)<br><br>Currently focusing on Next.js for modern web development<br><br>Passionate about building full-stack applications and learning new technologies<br><br><br>🤝 Collaboration<br><br>I’m open to collaborating on:<br><br>Full-stack projects<br><br>Open-source contributions<br><br>Web applications with Next.js and the MERN stack<br>
+👋 Hi, I'm Johnlord Mique<br><br>💻 3rd Year IT Student | 🌱 21 years old | 🚀 Open for collaboration<br><br>🔧 Tech Stack & Interests<br><br>MERN Stack (MongoDB, Express, React, Node.js)<br><br>Passionate about building full-stack applications and learning new technologies<br><br><br>🤝 Collaboration<br><br>I’m open to collaborating on:<br><br>Full-stack projects<br><br>Open-source contributions<br><br>Web applications with Next.js and the MERN stack<br>
 
 
 ## 🌐 Socials:
